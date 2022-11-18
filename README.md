@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+
+## Group Members: Yuval Kopelman and Ofir Gur Cohen
+
+### Group No. 14
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
